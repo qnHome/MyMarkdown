@@ -1,6 +1,6 @@
 ---
 title: 解决manjaro安装TeamViewer后显示：未就绪，请检查您的连接(备忘)
-date: 2018-08-25 11:08:38
+date: 2018-08-22 11:08:38
 tags:
 - Linux
 - Manjaro
