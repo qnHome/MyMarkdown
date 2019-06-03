@@ -5,7 +5,7 @@ categories: 常识
 tags:
  - hexo
  - markdown
-description: 本篇不叙述如何配置安装搭建hexo，主要记录在写作方面的基础，作为利用markdown写作的个人文档。
+
 ---
 >之前一直使用有道云笔记，其同样提供了markdown的书写，所以使用hexo对博主来说比较容易上手，下面先把常用的markdown标签语法一一进行列举,比较少用的就随用随查了，慢慢就会熟记。
 
